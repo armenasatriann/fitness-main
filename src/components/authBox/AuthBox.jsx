@@ -13,7 +13,7 @@ const AuthBox = () => {
           onClick={() => setSignTab("signup")}
           className={`singInButton ${signTab === "signup" ? "bigText" : ""}`}
         >
-          Sing Up
+          Sign Up
         </button>
         <button
           onClick={() => setSignTab("login")}
