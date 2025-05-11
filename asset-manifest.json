@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fitness-main/static/css/main.3ef9cc98.css",
-    "main.js": "/fitness-main/static/js/main.66d599b9.js",
-    "static/js/453.46877901.chunk.js": "/fitness-main/static/js/453.46877901.chunk.js",
+    "main.js": "/fitness-main/static/js/main.7a2e19bf.js",
+    "static/js/453.64b92d6e.chunk.js": "/fitness-main/static/js/453.64b92d6e.chunk.js",
     "static/media/muscleGuy.png": "/fitness-main/static/media/muscleGuy.0561a8f89961157abaea.png",
     "static/media/Frame 427.png": "/fitness-main/static/media/Frame 427.6035bdb60ca7608af383.png",
     "static/media/Frame 394.png": "/fitness-main/static/media/Frame 394.9579d4f6bda9cb267f43.png",
@@ -40,11 +40,11 @@
     "static/media/VectorTwo.svg": "/fitness-main/static/media/VectorTwo.3ca2a7182370f62c9c8f38309823dc6a.svg",
     "static/media/wall.PNG": "/fitness-main/static/media/wall.89c3ff9a5dd0493e3553.PNG",
     "main.3ef9cc98.css.map": "/fitness-main/static/css/main.3ef9cc98.css.map",
-    "main.66d599b9.js.map": "/fitness-main/static/js/main.66d599b9.js.map",
-    "453.46877901.chunk.js.map": "/fitness-main/static/js/453.46877901.chunk.js.map"
+    "main.7a2e19bf.js.map": "/fitness-main/static/js/main.7a2e19bf.js.map",
+    "453.64b92d6e.chunk.js.map": "/fitness-main/static/js/453.64b92d6e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ef9cc98.css",
-    "static/js/main.66d599b9.js"
+    "static/js/main.7a2e19bf.js"
   ]
 }
